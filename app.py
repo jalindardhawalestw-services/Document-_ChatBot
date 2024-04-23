@@ -1,6 +1,6 @@
-
+!pip install chromadb
 import streamlit as st
-import chromadb as ch
+import chromadb 
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
