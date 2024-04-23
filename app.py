@@ -16,7 +16,7 @@ from langchain_community.llms import Ollama
 from langchain_core.embeddings import Embeddings
 from PIL import Image
 
-path_to_save = r"Chroma DB"
+path_to_save = r"https://drive.google.com/drive/folders/1vHMMfKktAim-aHYVriPTptSE2h-oQp-w?usp=drive_link"
 
 
 def main():
