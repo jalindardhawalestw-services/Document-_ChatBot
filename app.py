@@ -1,5 +1,5 @@
 import streamlit as st
-import faiss
+import Faiss
 import chromadb as chromadb
 import re
 from nltk.corpus import stopwords
