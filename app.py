@@ -1,5 +1,5 @@
 import streamlit as st
-# from chromadb import *
+from chromadb import *
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
@@ -16,8 +16,8 @@ from langchain_community.llms import Ollama
 from langchain_core.embeddings import Embeddings
 from PIL import Image
 
-path_to_save = r"https://drive.google.com/drive/folders/1vHMMfKktAim-aHYVriPTptSE2h-oQp-w?usp=drive_link"
-
+path_to_save = r"Chroma DB"
+z
 
 def main():
     
