@@ -17,7 +17,7 @@ from langchain_core.embeddings import Embeddings
 from PIL import Image
 
 path_to_save = r"Chroma DB"
-z
+
 
 def main():
     
