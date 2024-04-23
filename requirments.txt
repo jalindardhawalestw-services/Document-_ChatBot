@@ -1,0 +1,6 @@
+streamlit
+chromadb
+nltk
+PyPDF2
+langchain
+langchain_community
