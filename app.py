@@ -1,6 +1,6 @@
 
 import streamlit as st
-import chromadb
+import chromadb as ch
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
