@@ -10,7 +10,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 
 from langchain.chains import RetrievalQA
-from langchain_openai import OpenAI
+# from langchain_openai import OpenAI
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.llms import Ollama
 from langchain_core.embeddings import Embeddings
